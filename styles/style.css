@@ -377,6 +377,8 @@
 .footer__logo {
   display: flex;
   align-self: flex-start;
+  width: 58px;
+  height: 80px;
 }
 
 .footer__column-heading {
@@ -399,8 +401,8 @@
 }
 
 .footer__social-icon {
-  width: 10px;
-  height: 10px;
+  width: 16px;
+  height: 16px;
 }
 
 .footer__copyright {
